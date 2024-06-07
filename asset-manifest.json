@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pratiksha--karn-website/static/css/main.cecb4d34.css",
+    "main.js": "/pratiksha--karn-website/static/js/main.05af7cdb.js",
+    "static/media/ss.PNG": "/pratiksha--karn-website/static/media/ss.99544c449332620ef82e.PNG",
+    "static/media/service.PNG": "/pratiksha--karn-website/static/media/service.a65db85b65a25f6fcd26.PNG",
+    "static/media/food.PNG": "/pratiksha--karn-website/static/media/food.c0e846dde13c254db0a9.PNG",
+    "static/media/foto.PNG": "/pratiksha--karn-website/static/media/foto.5a25df9d3fe54298241a.PNG",
+    "static/media/tea.PNG": "/pratiksha--karn-website/static/media/tea.886f609d892a42753f6a.PNG",
+    "static/media/Pratiksha_CV.pdf": "/pratiksha--karn-website/static/media/Pratiksha_CV.e705062d292cc64c11ae.pdf",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/pratiksha--karn-website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/agency.PNG": "/pratiksha--karn-website/static/media/agency.4bcff0eb0d698f4dfced.PNG",
+    "static/media/fontawesome-webfont.eot": "/pratiksha--karn-website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/pratiksha--karn-website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/pratiksha--karn-website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/pratiksha--karn-website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/pkm.jpg": "/pratiksha--karn-website/static/media/pkm.87a7b0e38698f7b523e3.jpg",
+    "static/media/java.png": "/pratiksha--karn-website/static/media/java.ea3ff546e678f085cbc1.png",
+    "index.html": "/pratiksha--karn-website/index.html",
+    "main.cecb4d34.css.map": "/pratiksha--karn-website/static/css/main.cecb4d34.css.map",
+    "main.05af7cdb.js.map": "/pratiksha--karn-website/static/js/main.05af7cdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cecb4d34.css",
+    "static/js/main.05af7cdb.js"
+  ]
+}
